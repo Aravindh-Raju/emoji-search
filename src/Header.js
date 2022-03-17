@@ -18,6 +18,8 @@ export default class Header extends PureComponent {
           height="32"
           alt=""
         />
+        <br/>
+        <a id="bton" href="https://github.com/ahfarmer/emoji-search">Repo Link</a>
       </header>
     );
   }

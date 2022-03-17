@@ -9,9 +9,14 @@
     "react-scripts": "^3.0.1"
   },
   "dependencies": {
+    "@loky-js/loky": "0.0.2",
+    "bootstrap": "^5.1.3",
     "clipboard": "^2.0.4",
     "github-fork-ribbon-css": "^0.2.1",
+    "hotkeys-js": "^3.8.7",
+    "jquery": "^3.6.0",
     "react": "^16.8.6",
+    "react-bootstrap": "^2.2.1",
     "react-dom": "^16.8.6"
   },
   "scripts": {
